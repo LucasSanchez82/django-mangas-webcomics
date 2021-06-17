@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'home_mangas_webcomics',
+    'home_mangas_webcomics.apps.HomeMangasWebcomicsConfig',
 ]
 
 MIDDLEWARE = [
